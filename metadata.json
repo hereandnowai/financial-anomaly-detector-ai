@@ -1,0 +1,6 @@
+{
+  "name": "Financial Anomaly Detector AI",
+  "description": "An AI-powered web application that analyzes financial transaction data from CSV files to detect anomalies, outliers, and potential risks. It provides a visual dashboard and detailed transaction reports to help users identify suspicious activities.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
